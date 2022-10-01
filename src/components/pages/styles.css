@@ -1,0 +1,18 @@
+.container{
+    width: 450px;
+    margin: 0 auto;
+    padding: 3em;
+}
+
+.container h1 {
+    margin-bottom: 1em;
+}
+
+.container label {
+    color: #7b7b7b;
+}
+
+.container li {
+    margin-bottom: 1em;
+    text-align: left;
+}
